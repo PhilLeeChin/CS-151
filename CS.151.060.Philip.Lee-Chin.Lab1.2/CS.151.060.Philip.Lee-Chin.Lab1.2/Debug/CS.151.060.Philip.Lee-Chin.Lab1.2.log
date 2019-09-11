@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  CS.151.060.Philip.Lee-Chin.Lab1.2.cpp
+c:\users\lawd\documents\visual studio 2015\projects\cs.151.060.philip.lee-chin.lab1.2\cs.151.060.philip.lee-chin.lab1.2\cs.151.060.philip.lee-chin.lab1.2.cpp(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  CS.151.060.Philip.Lee-Chin.Lab1.2.vcxproj -> C:\Users\Lawd\Documents\Visual Studio 2015\Projects\CS.151.060.Philip.Lee-Chin.Lab1.2\Debug\CS.151.060.Philip.Lee-Chin.Lab1.2.exe
+  CS.151.060.Philip.Lee-Chin.Lab1.2.vcxproj -> C:\Users\Lawd\Documents\Visual Studio 2015\Projects\CS.151.060.Philip.Lee-Chin.Lab1.2\Debug\CS.151.060.Philip.Lee-Chin.Lab1.2.pdb (Full PDB)

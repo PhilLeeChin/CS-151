@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Lab.2.2.HW.Philip.Lee.Chin.CS.150.060.p2.cpp
+c:\users\lawd\documents\visual studio 2015\projects\lab.2.2.hw.philip.lee.chin.cs.150.060.p2\lab.2.2.hw.philip.lee.chin.cs.150.060.p2\lab.2.2.hw.philip.lee.chin.cs.150.060.p2.cpp(12): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lawd\documents\visual studio 2015\projects\lab.2.2.hw.philip.lee.chin.cs.150.060.p2\lab.2.2.hw.philip.lee.chin.cs.150.060.p2\lab.2.2.hw.philip.lee.chin.cs.150.060.p2.cpp(13): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\lawd\documents\visual studio 2015\projects\lab.2.2.hw.philip.lee.chin.cs.150.060.p2\lab.2.2.hw.philip.lee.chin.cs.150.060.p2\lab.2.2.hw.philip.lee.chin.cs.150.060.p2.cpp(14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\lawd\documents\visual studio 2015\projects\lab.2.2.hw.philip.lee.chin.cs.150.060.p2\lab.2.2.hw.philip.lee.chin.cs.150.060.p2\lab.2.2.hw.philip.lee.chin.cs.150.060.p2.cpp(15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Lab.2.2.HW.Philip.Lee.Chin.CS.150.060.p2.vcxproj -> C:\Users\Lawd\Documents\Visual Studio 2015\Projects\Lab.2.2.HW.Philip.Lee.Chin.CS.150.060.p2\Debug\Lab.2.2.HW.Philip.Lee.Chin.CS.150.060.p2.exe
+  Lab.2.2.HW.Philip.Lee.Chin.CS.150.060.p2.vcxproj -> C:\Users\Lawd\Documents\Visual Studio 2015\Projects\Lab.2.2.HW.Philip.Lee.Chin.CS.150.060.p2\Debug\Lab.2.2.HW.Philip.Lee.Chin.CS.150.060.p2.pdb (Full PDB)

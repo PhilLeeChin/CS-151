@@ -1,0 +1,5 @@
+﻿  HW3.P2.Philip.Lee.Chin.CS.150.060.cpp
+c:\users\lawd\documents\visual studio 2015\projects\hw3.p2.philip.lee.chin.cs.150.060\hw3.p2.philip.lee.chin.cs.150.060\hw3.p2.philip.lee.chin.cs.150.060.cpp(24): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lawd\documents\visual studio 2015\projects\hw3.p2.philip.lee.chin.cs.150.060\hw3.p2.philip.lee.chin.cs.150.060\hw3.p2.philip.lee.chin.cs.150.060.cpp(25): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lawd\documents\visual studio 2015\projects\hw3.p2.philip.lee.chin.cs.150.060\hw3.p2.philip.lee.chin.cs.150.060\hw3.p2.philip.lee.chin.cs.150.060.cpp(26): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\lawd\documents\visual studio 2015\projects\hw3.p2.philip.lee.chin.cs.150.060\hw3.p2.philip.lee.chin.cs.150.060\hw3.p2.philip.lee.chin.cs.150.060.cpp(35): error C4700: uninitialized local variable 'totalCost' used
