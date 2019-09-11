@@ -4,7 +4,7 @@
 #include <iomanip>
 using namespace std;
 
-void main()
+int main()
 {
 	int quart1, quart2, quart3, quart4;
 	double avg;
@@ -30,5 +30,6 @@ void main()
 		cout << "Your average monthly bill is $" << avg << ". "
 			 << "Thanks for conserving water" << endl;
 
+return 0;
 }
 
